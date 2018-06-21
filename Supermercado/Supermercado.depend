@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529596578 source:c:\users\anderson\desktop\monitoria\supermercado\main.c
+	<stdio.h>
+	<stdlib.h>
+

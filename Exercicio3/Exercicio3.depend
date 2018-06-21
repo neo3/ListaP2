@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529508820 source:c:\users\anderson\desktop\monitoria\exercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+
